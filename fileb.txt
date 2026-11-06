@@ -1,1 +1,2 @@
 Feature b 1
+feature 2
